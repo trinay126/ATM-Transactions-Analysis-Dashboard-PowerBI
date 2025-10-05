@@ -331,7 +331,7 @@ Data was collected from various sources including ATM transaction logs, maintena
 ## 🧾 Data Dictionary
 
 For detailed information about all dataset columns and their descriptions, please refer to the  
-[`column_names.md`](./column_names.md) file.
+[`column_names.md`](./columns_Names.md) file.
 
 ---
 
@@ -349,6 +349,7 @@ It serves as an essential analytical tool for financial institutions aiming to e
 🎓 Aspiring Data Analyst | Excel, Power BI  
 
 ---
+
 
 
 
