@@ -103,7 +103,7 @@ This dashboard provides insights into **operational costs, revenues, uptime, and
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 ## Dashboard Overview
 
 ### Cost Analysis (ATM Cost and Maintenance)
@@ -239,12 +239,6 @@ This line chart shows the trend of total transactions over time, specifically hi
 - **September 2024**
 - **November 2024**
 
-## Detailed Analysis
-
-### Dashboard Image
-
-![Detailed Analysis Dashboard](Detailed_page.png)
-
 ### Range Analysis (Current and Previous Month by ATM ID)
 
 This section provides an analysis of ATM performance by margin and transaction ranges for the current and previous month:
@@ -340,11 +334,13 @@ For detailed information about all dataset columns and their descriptions, pleas
 [`column_names.md`](./column_names.md) file.
 
 ---
-## 🏁 Conclusion
 
+## 🏁 Conclusion
 The **ATM Transactions Analysis Dashboard** provides a holistic view of ATM network performance, enabling data-driven decision-making, performance monitoring, and cost optimization.  
 It serves as an essential analytical tool for financial institutions aiming to enhance efficiency and profitability across their ATM networks.
+
 ---
+
 ## 📜 Author
 - Developed by: Chadalavada Trinay Sai  
 - Contact: thrinaychadalavada@gmail.com  
@@ -353,5 +349,6 @@ It serves as an essential analytical tool for financial institutions aiming to e
 🎓 Aspiring Data Analyst | Excel, Power BI  
 
 ---
+
 
 
